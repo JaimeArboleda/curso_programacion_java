@@ -8,3 +8,12 @@ En esta asignatura usaremos *Java*, que es un lenguaje con las siguientes caract
 * Es de alto nivel (a diferencia de la programación de bajo nivel). 
 * Se ejecuta en una máquina virtual (en lugar de en el sistema operativo del cliente). 
 * Es fuertemente tipado (a diferencia de los lenguajes dinámicos sin tipado estricto). 
+
+## Dónde aprender
+
+Un buen sitio con lo principal bastante bien resumido es [W3Schools](https://www.w3schools.com/java/default.asp). Hay tutoriales con ejemplos de código que contienen todo lo del curso y más. 
+
+En general, ante una duda, stackoverflow o simplemente google suelen proporcionar la solución. 
+
+Practicar, practicar y practicar!
+
