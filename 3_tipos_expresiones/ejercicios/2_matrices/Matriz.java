@@ -46,7 +46,6 @@ public class Matriz {
     }
 
     public static void main(String[] args){
-        int a;
         double[][] d = {{1, 2, 3}, {4, 5, 6}};
         Matriz m1 = new Matriz(2, 2);
         m1.set(0, 0, 1);
