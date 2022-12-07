@@ -82,3 +82,11 @@ void metodo_2(Perro p){
 Los argumentos a las funciones siempre se pasan por valor y no por referencia. Esto es, a la función se le pasa una copia de los argumentos, y no las variables originales. Esto quiere decir que las dos funciones anteriores se comportan de manera diferente: 
 * La primera no modificará la a, porque a la función se ha pasado una copia del entero original, y modificar dentro del cuerpo de la función la a no afecta a la variable. 
 * La segunda, en cambio, recibe una copia de la referencia de perro. Esto es una copia que apunta a la misma zona de memoria que la variable original. Es decir, el perro no se copia; sólo se copia su dirección. Por tanto, la modificación que sucede dentro sí afecta al perro original. 
+
+# Referencias
+
+* [Java OOP](https://www.w3schools.com/java/java_oop.asp)
+* [Java Classes & Objects](https://www.w3schools.com/java/java_classes.asp)
+* [Java Class Attributes](https://www.w3schools.com/java/java_class_attributes.asp)
+* [Java Class Methods](https://www.w3schools.com/java/java_class_methods.asp)
+* [Java Constructors](https://www.w3schools.com/java/java_constructors.asp)

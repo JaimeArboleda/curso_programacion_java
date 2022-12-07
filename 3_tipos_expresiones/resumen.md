@@ -102,3 +102,14 @@ int[][] vec = {{1, 1}, {2, 3}};
 
 ```
 
+# Referencias
+
+* [Java Variables](https://www.w3schools.com/java/java_variables.asp)
+* [Java Data Types](https://www.w3schools.com/java/java_data_types.asp)
+* [Java Casting](https://www.w3schools.com/java/java_type_casting.asp)
+* [Java Operators](https://www.w3schools.com/java/java_operators.asp)
+* [Java Strings](https://www.w3schools.com/java/java_strings.asp)
+* [Java Math](https://www.w3schools.com/java/java_math.asp)
+* [Java Boolean](https://www.w3schools.com/java/java_booleans.asp)
+* [Java Arrays](https://www.w3schools.com/java/java_arrays.asp)
+* [Java enums](https://www.w3schools.com/java/java_enums.asp)

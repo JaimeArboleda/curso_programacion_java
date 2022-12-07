@@ -1,0 +1,1 @@
+Hacer un programa Java que lea constantemente la entrada del usuario y que, tomando la cadena de caracteres que el usuario introduce, la pasa a mayúsculas. 
