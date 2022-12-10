@@ -1,0 +1,1 @@
+Hacer el código de empresa y persona del resumen y probar que funciona.
