@@ -1,0 +1,50 @@
+site_name: Programación I
+use_directory_urls: false
+nav:
+    - Presentación: index.md
+    - Introducción a Java: 
+      - Teoría: teoria/introduccion.md
+      - Ejercicios: 
+        - Hola mundo: enunciados/introduccion/hola_mundo.md
+        - Input y Output: enunciados/introduccion/input_output.md
+    - Clases y Objetos: 
+      - Teoría: teoria/clases_objetos.md
+      - Ejercicios: 
+        - Hola mundo: enunciados/clases_objetos/hola_mundo.md
+        - Valor y referencia: enunciados/clases_objetos/valor_referencia.md
+        - Triángulo: enunciados/clases_objetos/triangulo.md
+    - Tipos y Expresiones: 
+      - Teoría: teoria/tipos_expresiones.md
+      - Ejercicios: 
+        - Letras: enunciados/tipos_expresiones/letras.md
+        - Matrices: enunciados/tipos_expresiones/matrices.md
+    - Funciones y métodos: 
+      - Teoría: teoria/funciones_metodos.md
+      - Ejercicios: 
+        - Arboles: enunciados/funciones_metodos/arboles.md
+    - Sentencias: 
+      - Teoría: teoria/sentencias.md
+      - Ejercicios: 
+        - Cifrado: enunciados/sentencias/cesar.md
+    - Encapsulación y diseño: 
+      - Teoría: teoria/encapsulacion_diseno.md
+      - Ejercicios: 
+        - Paquetes: enunciados/encapsulacion_diseno/paquetes.md
+    - Polimorfismo e Interfaces: 
+      - Teoría: teoria/polimorfismo_interfaces.md
+      - Ejercicios: 
+        - Cola: enunciados/polimorfismo_interfaces/cola.md
+    - Bibliotecas y Almacenes: 
+      - Teoría: teoria/bibliotecas_almacenes.md
+      - Ejercicios: 
+        - Máximos: enunciados/bibliotecas_almacenes/maximos.md
+        - Máximos 2: enunciados/bibliotecas_almacenes/maximos_dos.md
+        - Piedra Papel Tijera: enunciados/bibliotecas_almacenes/piedra_papel_tijera.md
+        - Mochila: enunciados/bibliotecas_almacenes/mochila.md
+        - Gruas: enunciados/bibliotecas_almacenes/grua.md
+markdown_extensions: 
+    - mdx_math
+extra_javascript:
+  - https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML
+  - mathjaxhelper.js
+theme: readthedocs

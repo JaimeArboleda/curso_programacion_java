@@ -1,0 +1,1 @@
+Escribe una clase llamada *Cesar* que tenga un atributo llamado *clave* y que pueda cifrar y descifrar texto (usando suma módulo 26). No es necesario considerar la letra ñ. 
